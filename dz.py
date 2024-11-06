@@ -1,6 +1,6 @@
-def fun_1(x=60 , y=40):
- print ( x , y)
-fun_1()
-fun_1()
-
-
+num_6 = 1
+num_5 = 1
+def fun_2():
+ num_6 = num_5
+num_5 > num_6
+print(True or False)
